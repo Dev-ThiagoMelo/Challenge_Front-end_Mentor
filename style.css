@@ -14,7 +14,7 @@ body {
   flex-wrap: wrap;
 }
 
-.qrcode-container {
+.main-container {
   width: 20rem;
   height: 32rem;
   background-color: hsl(0, 0%, 100%);
@@ -28,7 +28,7 @@ body {
   width: 18.5rem;
   border-radius: 30px;
 }
-.qrcode {
+.main {
   padding: 0px 20px;
 }
 .p1 {
