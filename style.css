@@ -15,27 +15,27 @@ body {
 }
 
 .main-container {
-  width: 20rem;
-  height: 31rem;
+  width: 20.5rem;
+  height: 31.5rem;
   background-color: hsl(0, 0%, 100%);
   box-shadow: 0px 4px 4px 0px #989898;
-  border-radius: 10px;
+  border-radius: 15px;
   text-align: center;
 }
 .image-qr-code {
-  margin-top: 10px;
-  padding: 10px;
-  width: 18.5rem;
-  border-radius: 20px;
+  padding: 16px;
+  width: 20.5rem;
+  border-radius: 25px;
 }
 .main {
+  width: rem;
   padding: 0px 20px;
 }
 .p1 {
   font-family: "Outfit", sans-serif;
   font-weight: bold;
   font-size: 1.5em;
-  padding: 13px 0px 10px 0px;
+  padding: 0px 0px 10px 0px;
   color: hsl(218, 44%, 22%);
 }
 .p2 {
